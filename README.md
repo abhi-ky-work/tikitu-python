@@ -1,2 +1,2 @@
-# tikitu-java
-Java Spring Boot Backend for TikiTu App
+# tikitu-python
+Python FastAPI Backend for TikiTu App
